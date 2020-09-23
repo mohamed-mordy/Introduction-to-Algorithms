@@ -1,0 +1,4 @@
+* In most computers, shifting the bits of an integer by one position to the left is equivalent to multiplication by 2,
+	so that shifting the bits by k positions is equivalent to multiplication by 2**k.
+
+* Selection sort best-case and worst-case both two are of O(n**2).

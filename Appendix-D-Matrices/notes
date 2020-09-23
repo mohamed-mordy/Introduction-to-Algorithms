@@ -1,0 +1,4 @@
+* The transpose of a matrix A is the matrix At(pronounced.. A-transpose) obtained by exchanging the rows and columns of matrix A.
+* A vector is a one-dimensional array of numbers.
+* A symmetric matrix A satisfies A = At.
+

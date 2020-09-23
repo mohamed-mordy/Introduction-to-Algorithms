@@ -1,0 +1,18 @@
+// add two-n-bits binary integers
+// store the result in n+1 array
+inputs: two-n-bits arrays (A, B)
+output: one-n+1-bits array (C)
+
+sum = carry = 0
+for i = 1 to n
+	sum = A[i] + B[i] + carry
+	if (sum == 2)
+		C[i] = 0
+		carry = 1
+	else if (sum == 3)
+		C[i] = 1
+		carry = 1
+	else
+		C[i] = s
+		carry = 0
+C[i + 1] = carry

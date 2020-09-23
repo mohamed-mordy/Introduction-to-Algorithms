@@ -1,0 +1,3 @@
+abstract
+	* In this chapter, we talked about merge-sort and insertion-sort.
+	* Merge-sort is much better than insertion-sort in terms of efficiency and running time.
